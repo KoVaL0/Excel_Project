@@ -7,3 +7,8 @@ Webpack (imports/exports)
             Dev Server, SourseMaps, Eslint, Not Minified JS & CSS
         - Prod
             Minified Code
+Git
+
+    Production
+        2.0.0
+    Development
